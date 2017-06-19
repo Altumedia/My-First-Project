@@ -1,0 +1,15 @@
+{
+  "name": "my_first_project",
+  "version": "1.0.0",
+  "description": "landing Page",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleg Tomilov",
+  "license": "ISC"
+}
